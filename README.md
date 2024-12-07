@@ -1,6 +1,6 @@
 # SQL-Queries--ProfStudentsCourse
 
-#In exercise in SQL, where I practiced creating and managing relational databases, writing queries, and performing joins. The goal was to explore the interaction between three tables: Students, Professors, and Courses.
+#An exercise in SQL, where I practiced creating and managing relational databases, writing queries, and performing joins. The goal was to explore the interaction between three tables: Students, Professors, and Courses.
 
 #Overview
 
